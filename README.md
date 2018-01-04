@@ -54,7 +54,7 @@
 
 ### 디자인 직군
 
-* [Product designer](careers/product-designer) - 채용중
+* [Product designer](careers/product-designer.md) - 채용중
 
 
 
