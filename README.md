@@ -49,8 +49,8 @@
 
 ### 개발 직군
 
-- Software engineer - 채용중
-- DeepLearning engineer - 채용중
+- [Software engineer](careers/software-engineer.md) - 채용중
+- [DeepLearning engineer](careers/deep-learning-engineer.md) - 채용중
 
 ### 디자인 직군
 
@@ -99,6 +99,6 @@
 
 ## 참고
 
-- 홈페이지 : https://about.pleasefashion.co.kr
-- 챗봇 링크 : https://m.me/pleasefashion?ref=campaign%3DGithubApply
-- 페이스북 페이지 : https://facebook.com/plzfashion
+- 홈페이지 : [https://about.pleasefashion.co.kr](https://about.pleasefashion.co.kr)
+- 챗봇 링크 : [https://m.me/pleasefashion](https://m.me/pleasefashion?ref=campaign%3DGithubApply)
+- 페이스북 페이지 : [https://facebook.com/plzfashion](https://facebook.com/plzfashion)
