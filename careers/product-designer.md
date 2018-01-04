@@ -1,8 +1,8 @@
-## [패션을부탁해는?](README.md)
+## [패션을부탁해는?](../README.md)
 
 
 
-# Product designer
+## Product designer 채용
 
 **패션을부탁해**의 Product Designer는 표면적으로 보이는 화면만이 아닌 사용자가 경험하게 되는 모든 것들을 설계합니다.
 
