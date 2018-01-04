@@ -1,20 +1,73 @@
-# Software Engineer
-저희와 함께 할 Software Engineer는 다양한 프레임워크와 플러그인들을 응용하고, 라이브러리들을 개발하면서 함께 성장하고 발전해 나갈 것입니다.
+## [채용](../README.md) > Software Engineer
 
-주요업무:
-- React Native와 SendBird를 활용한 Chatbot 서비스 개발
-- 기존의 Chatbot Server Customize 및 설계
+**패션을부탁해** 와 함께할 소프트웨어 엔지니어를 채용합니다.
 
-자격요건:
-- React Native를 사용한 어플리케이션 개발 경험
-- Typescript, Flow를 어플리케이션에 적용해 본 경험
-- 표준 웹 프론트엔드 프레임워크를 활용한 어플리케이션 개발 경험(AngularJs, Vue.js 등)
-- Webpack 또는 Grunt등을 활용하여 코드 자동화 빌드 툴을 활용 경험
-- Async Programing에 대한 이해 및 경험
 
-우대사항:
+
+#### 패션을부탁해의 개발 스택:
+
+* Typescript 또는 Flow+ES6 를 사용한 다수의 Serverless application을 개발합니다.
+* Serverless application은 Web API, Batch Job, Crawler, Webhook 등 다양한 분야에 적용되어 있습니다.
+* Ruby on rails 로 구성된 API Backend를 개발합니다.
+* Python, Scrapy를 사용하여 Web crawler를 운영하고 있습니다.
+* AWS, GCP 등 다양한 매니지드 서비스를 사랑합니다.
+* Vue.js, Angular 등 프론트엔드 프레임웍을 사용합니다.
+* Hexo, Jekyll 등으로 다양한 서비스 관련 페이지를 운영하고 있습니다.
+
+#### 패션을부탁해의 개발 문화:
+
+- 모든 제품 개발 일정은 스크럼 방법론으로 2주간의 스프린트를 통해 이루어집니다.
+- 서비스에 반영되는 모든 코드는 Pull Request를 통한 코드리뷰 절차를 거칩니다.
+- CircleCI, CodeClimate, AWS CodeDeploy 등 다양한 관리형 서비스를 사용하여 제품 개발 절차를 자동화합니다.
+  - 따라서, CI/CD를 지향합니다. 자동화에 목매는 분을 좋아합니다.
+  - 효율을 위한 서비스/기술 도입은 언제나 환영입니다.
+- 모든 일감은 JIRA를 통해 관리가 되며 커뮤니케이션은 Slack과 Appear.in 과 같은 서비스를 통해 비동기적으로 이루어집니다.
+- 테스트 자동화 및 테스트 주도 개발을 지향합니다.
+  - 아직 모든 제품에 테스트 자동화가 적용되어 있지는 않지만... 점차 그 범위를 전체로 넓혀갈 것입니다.
+  - 테스트 주도 개발이 필수는 아니지만, 해당 관습을 따를 수 있도록 권장하며 최대한 지원해드립니다.
+
+#### 주요업무:
+
+기본 업무는 다음과 같으나, 다른 개발 분야를 학습하고 스펙트럼을 넓혀가는 것을 권장하고 지원해 드립니다.
+
+- React Native 또는 기타 Cross platform을 활용한 모바일 챗봇 플러그인 개발
+- Facebook Messenger, Line 등 공개 메신저 플랫폼의 챗봇 개발
+
+#### 자격요건:
+
+- 다음중 하나만 만족하여도 됩니다. 다만 기술스택을 참고하시고 주요업무에 도전할 수 있을지 고민해주세요.
+  - 프론트엔드 프레임워크 (Vue.js, React, Angular 등) 을 사용한 상용 서비스 개발 경험
+  - iOS 또는 Android 상용 애플리케이션 개발 경험
+  - Rails, Django, Spring 등의 프레임웍을 사용한 Web API 개발 경험
+- Javascript/ES6 에 대한 이해
+- Git을 활용한 소스코드 관리 및 협업
+- 타 직군 (Product designer, UI/UX Designer 등) 과  협업하여 개발한 경험
+
+#### 우대사항:
+
+- React Native를 사용한 애플리케이션 개발 경험
+- Typescript, Flow 와 같은 타입 시스템을 Javascript 프로젝트에 적용해 본 경험
+- 테스트 자동화 및 테스트 주도 개발
 - iOS 또는 Android의 Native Application을 개발 및 배포 경험
-- iOS 또는 Android의 Library를 제작해 본 경험
-- 노드 기반의 테스트 러너와 유닛 테스트 프레임워크를 활용 경험(Karma, Jasmine, Mocha, Jest 등)
-- Python, Ruby on rails등을 재미삼아 타이핑 해 본 경험
-- AWS Lambda을 활용해 본 경험
+- 스크럼, 칸반, XP 등의 애자일 방법론에 대한 이해
+
+#### 채용절차:
+
+- 서류전형
+- 온사이트 실무진 면접 및 임원면접
+
+#### 지원 방법:
+
+제출서류 (*모든 문서는 PDF 형식으로 제출해주세요.*)
+
+- 자유형식의 이력서 및 경력 기술서
+  - 링크드인과 같은 이력 관리 서비스를 export 하여 제출해도 무방함
+- 아래 중 해당 사항이 있으면 상세히 기술해주세요.
+  - 펫 프로젝트 또는 오픈소스 활동을 담은 Github 계정주소
+  - 기술 블로그
+  - 감명깊게 읽은 기술 서적
+  - 참석했거나 발표했던 컨퍼런스
+  - 최근 주요 관심사
+- 제출서류와 함께 [help@pleasefashion.co.kr](mailto:help@pleasefashion.co.kr) 으로 보내주세요.
+- 메일 제목에 [지원 직군]을 포함시켜주세요.채용 완료 시 본 채용 공고는 마감되며, 진행 과정에 따라 개별 연락 드리겠습니다.
+
