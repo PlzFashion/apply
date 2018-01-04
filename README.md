@@ -50,7 +50,7 @@
 ### 개발 직군
 
 - [Software engineer](careers/software-engineer.md) - 채용중
-- [DeepLearning engineer](careers/deep-learning-engineer.md) - 채용중
+- [DeepLearning engineer](careers/data-engineer.md) - 채용중
 
 ### 디자인 직군
 
