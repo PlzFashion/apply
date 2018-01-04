@@ -55,7 +55,7 @@
 
 ### 개발 직군
 
-- Software engineer - 예정 
+- [Software engineer](careers/software-engineer.md) - 채용중
 - Deep Learning engineer - 예정 
 
 
