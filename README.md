@@ -49,14 +49,14 @@
 
 ## 채용
 
-### 개발 직군
-
-- [Software engineer](careers/software-engineer.md) - 채용중
-- [Data engineer](careers/data-engineer.md) - 채용중
-
 ### 디자인 직군
 
-* [Product designer](careers/product-designer.md) - 채용중
+- [Product designer](careers/product-designer.md) - 채용중
+
+### 개발 직군
+
+- Software engineer - 예정 
+- Deep Learning engineer - 예정 
 
 
 
