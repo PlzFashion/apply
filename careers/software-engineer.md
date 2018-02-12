@@ -30,22 +30,18 @@
 
 기본 업무는 다음과 같으나, 다른 개발 분야를 학습하고 스펙트럼을 넓혀가는 것을 권장하고 지원해 드립니다.
 
-- React Native 또는 기타 Cross platform을 활용한 모바일 챗봇 플러그인 개발
+- Vue.js를 활용한 모바일 챗봇 플러그인 개발
 - Facebook Messenger, Line 등 공개 메신저 플랫폼의 챗봇 개발
 
 #### 자격요건:
 
-- 다음중 하나만 만족하여도 됩니다. 다만 기술스택을 참고하시고 주요업무에 도전할 수 있을지 고민해주세요.
-  - 프론트엔드 프레임워크 (Vue.js, React, Angular 등) 을 사용한 상용 서비스 개발 경험
-  - iOS 또는 Android 상용 애플리케이션 개발 경험
-  - Rails, Django, Spring 등의 프레임웍을 사용한 Web API 개발 경험
+- 프론트엔드 프레임워크 (Vue.js, React, Angular 등) 을 사용한 상용 서비스 개발 경험
 - Javascript/ES6 에 대한 이해
 - Git을 활용한 소스코드 관리 및 협업
 - 타 직군 (Product designer, UI/UX Designer 등) 과  협업하여 개발한 경험
 
 #### 우대사항:
 
-- React Native를 사용한 애플리케이션 개발 경험
 - Typescript, Flow 와 같은 타입 시스템을 Javascript 프로젝트에 적용해 본 경험
 - 테스트 자동화 및 테스트 주도 개발
 - iOS 또는 Android의 Native Application을 개발 및 배포 경험
