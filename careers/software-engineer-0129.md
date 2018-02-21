@@ -30,21 +30,21 @@
 
 기본 업무는 다음과 같으나, 다른 개발 분야를 학습하고 스펙트럼을 넓혀가는 것을 권장하고 지원해 드립니다.
 
-- Typescript, Express 등을 사용한 serverless 애플리케이션 개발
+- Vue.js를 활용한 모바일 챗봇 플러그인 개발
+- Facebook Messenger, Line 등 공개 메신저 플랫폼의 챗봇 개발
 
 #### 자격요건:
 
-- Typescript, Javascript/ES6 에 대한 이해
+- 프론트엔드 프레임워크 (Vue.js, React, Angular 등) 을 사용한 상용 서비스 개발 경험
+- Javascript/ES6 에 대한 이해
 - Git을 활용한 소스코드 관리 및 협업
-- Express, Koa 등의 framework을 사용한 Web API 개발 경험
-- AWS의 Serverless 제품군에 대한 이해 (DynamoDB, Lambda 등)
 - 타 직군 (Product designer, UI/UX Designer 등) 과  협업하여 개발한 경험
 
 #### 우대사항:
 
+- Typescript, Flow 와 같은 타입 시스템을 Javascript 프로젝트에 적용해 본 경험
 - 테스트 자동화 및 테스트 주도 개발
-- Ruby on Rails, Django, Flask, Spring 등 하나 이상의 framework을 사용한 Web API 개발 경험
-- AWS 상의 Infra 운영 경험
+- iOS 또는 Android의 Native Application을 개발 및 배포 경험
 - 스크럼, 칸반, XP 등의 애자일 방법론에 대한 이해
 
 #### 채용절차:
