@@ -58,7 +58,7 @@
 
 ### 디자인 직군
 
-- [Product designer](careers/product-designer.md) - 채용중
+- ~~Product designer~~ - 채용마감
 
 ### 개발 직군
 
