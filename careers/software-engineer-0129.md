@@ -1,4 +1,4 @@
-## [채용](../README.md) > Software Engineer
+## [채용](../README.md) > Software Engineer (채용마감)
 
 **패션을부탁해** 와 함께할 소프트웨어 엔지니어를 채용합니다.
 
